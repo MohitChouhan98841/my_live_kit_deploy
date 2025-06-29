@@ -97939,7 +97939,7 @@ A.aCu.prototype={
 $2(a,b){return this.a5f(a,b)},
 a5f(a,b){var s=0,r=A.n(t.P),q=this,p,o,n,m,l
 var $async$$2=A.j(function(c,d){if(c===1)return A.k(d,r)
-while(true)switch(s){case 0:p=A.eA("http://dell-latitude-5480.local:3900/getToken",0,null)
+while(true)switch(s){case 0:p=A.eA("https://0de9-2401-4900-1c18-4d2a-a14e-50a0-805-dc59.ngrok-free.app/getToken",0,null)
 o=t.N
 n=A.M(["Content-Type","application/json"],o,o)
 s=2
